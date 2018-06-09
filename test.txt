@@ -1,3 +1,0 @@
-"Hi,I'm master branch"
-
-"Hi i'm secondbranch"// merge modify
